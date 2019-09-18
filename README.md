@@ -1,9 +1,8 @@
-# EGR-106
-Engineering 106 Code Shortcuts and Problems
+# CIS 263
 
 #stdio.h<>
 int main()
 {
-printf("My GPA needs life alert");
+printf("Hellow World");
 return 0;
 }
